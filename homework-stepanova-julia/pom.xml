@@ -22,7 +22,7 @@
         <version>1.0.0</version>
     </parent>
 
-    <artifactId>homework-base</artifactId>
+    <artifactId>homework-stepanova-julia</artifactId>
     <version>1.0.0</version>
 
     <dependencies>
