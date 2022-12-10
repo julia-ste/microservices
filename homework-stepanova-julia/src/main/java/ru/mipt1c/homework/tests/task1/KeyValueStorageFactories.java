@@ -1,7 +1,7 @@
 package ru.mipt1c.homework.tests.task1;
 
 import ru.mipt1c.homework.task1.KeyValueStorage;
-import ru.mipt1c.homework.task1.MalformedDataException;
+import ru.mipt1c.homework.task1.exceptions.MalformedDataException;
 
 public abstract class KeyValueStorageFactories {
     protected abstract KeyValueStorage<String, String> buildStringsStorage(String path) throws MalformedDataException;
